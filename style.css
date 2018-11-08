@@ -4,6 +4,7 @@ body {
 background: #dfe2fe;
 color: #5c5757;
 font-family: 'Bentham', serif;
+margin: 60px
 }
 h1 {
     color: #005792;
@@ -13,6 +14,7 @@ h2, h3, h4{
     font-family: helvetica;
     color:  #4a9ff5;
     font-size: 21px;
+     margin: 50px
 }
  
 p {
@@ -40,7 +42,7 @@ a:hover {
     padding: 40px;
     box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
     border-radius: 4px;
-    margin: 20px 0px;
+    margin: 60px 50px;
     text-align: center;
 }
 .img-circle {
